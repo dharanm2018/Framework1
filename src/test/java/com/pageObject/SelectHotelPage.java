@@ -11,7 +11,7 @@ public class SelectHotelPage {
 	private WebDriver driver;
 	
 	public SelectHotelPage() {
-		PageFactory.initElements(driver, this);
+	PageFactory.initElements(driver, this);
 	}
 @FindBy(id="radiobutton_0")
 private WebElement selectRadioButton;
