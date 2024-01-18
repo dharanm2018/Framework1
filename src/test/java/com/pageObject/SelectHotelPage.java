@@ -2,6 +2,7 @@ package com.pageObject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -30,6 +31,7 @@ public void selectHotel() {
 	getSelectRadioButton().click();
 	getContinueButton().click();
 }
+
 
 
 
