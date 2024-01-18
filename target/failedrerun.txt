@@ -1,0 +1,2 @@
+file:src/test/resource/features/searchHotel.feature:7:12
+file:src/test/resource/features/loginpage.feature:14
